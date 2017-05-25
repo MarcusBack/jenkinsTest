@@ -1,6 +1,4 @@
 #!/usr/bin/env groovy
-pipeline {
-	 node {
+ node {
 	 echo "Hello World"
-}
 }
